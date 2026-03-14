@@ -1,0 +1,5 @@
+{
+  "name": "ArchiCaption AI",
+  "description": "AI-powered LinkedIn caption generator for architects. Analyze your project images and create compelling posts to attract new clients.",
+  "requestFramePermissions": []
+}
